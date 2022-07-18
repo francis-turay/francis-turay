@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me e-mail francisturay@gmail.com
+- 📫 How to reach me e-mail francisturay80@gmail.com
 
 <!---
 francis-turay/francis-turay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
